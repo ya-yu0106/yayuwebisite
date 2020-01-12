@@ -10,7 +10,7 @@
 
 <h1>YayuLiu</h1>
 
-<div style="width: 100px; height:50px; background-color:#FF8888;"></div>
+<div style="width: 100px; height:50px; background-color: #FF8888;"></div>
 	
 <body>
 	
