@@ -7,13 +7,12 @@
  
 <head>
 	<title>劉雅瑜108000105</title>
-	<link herf="css.css" rel="stylesheet" type="text/css"/>
-	<div style="width: 100px; height:50px; background-color: black;"></div>
-	
+
 	<h1>YayuLiu</h1>
  
 </head>
-
+	<div style="width: 100px; height:50px; background-color: black;"></div>
+	
 <body>
 	
   <h3>Profile</h3>
