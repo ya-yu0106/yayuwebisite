@@ -3,31 +3,26 @@
 <html>
 <head>
   <tytle></tytle>
-  
-<link href="layout.css" rel="stylesheet" type="text/css">
-
+ 
 </head>
 
 <body>
 
-<div id="HEADER">
+
   <h1>YayuLiu</h1>
-<IMG SRC="https://imgur.com/bgYAhwU">
-</div>
+  <h2>my picture</h2>
+  <img src="p362.jpg"></img>
+  <hr/>
 
-
-<div id="NAV">
-  <ul>
+<ul>
     <li><a href="#">aboutme</a></li>
     <li><a href="#">artwork</a></li>
-  </ul>
-</div>
+ </ul>
 
-<div id="CONTENT">
 
 <p>My name is yayu Liu. I've studied in NTHU IPTH since Sep. 2019.<br >
-I will major in tech art next summer. I love drawing, traveling.<br ></p>
-</div>
+I will major in tech art next summer. I love drawing, traveling.<br >
+</p>
 
 </body>
 </html>
