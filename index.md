@@ -9,11 +9,11 @@
 </head>
 
 <body>
-
+<img src="https://imgur.com/oqTkhy4">
 <div id="HEADER">
   <h1>YayuLiu</h1>
 </div>
-<img src="https://imgur.com/oqTkhy4">
+
 
 <div id="NAV">
   <ul>
