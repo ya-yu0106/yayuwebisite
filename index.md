@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<!DOCTYPE css>
 <html>
 <head>
   <tytle></tytle>
