@@ -6,12 +6,11 @@
 
  
 <head>
-	<title>劉雅瑜108000105</title>
- 
 </head>
+
 <h1>YayuLiu</h1>
 
-<div style="width: 100px; height:50px; background-color: black;"></div>
+<div style="width: 100px; height:50px; background-color:;"></div>
 	
 <body>
 	
