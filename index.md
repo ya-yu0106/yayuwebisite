@@ -3,6 +3,8 @@
 <html>
 <head>
   <tytle></tytle>
+  
+<link href="layout.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
