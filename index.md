@@ -11,7 +11,7 @@
 
   <h1>YayuLiu</h1>
   <h2>my picture</h2>
-  <img src="https://images.pexels.com/photos/3429761/pexels-photo-3429761.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500">
+  <img src="p408.jpeg">
   <hr/>
 
 <ul>
