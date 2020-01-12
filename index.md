@@ -13,7 +13,7 @@
 <div id="HEADER">
   <h1>YayuLiu</h1>
 </div>
-<img src ="p425.jpg" />
+<img src ="p425.jpg" width="1500" height="1500" alt="j"/>
 
 <div id="NAV">
   <ul>
