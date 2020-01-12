@@ -16,8 +16,8 @@
   <hr/>
 
 <ul>
-    <li><a href="#">aboutme</a></li>
-    <li><a href="#">artwork</a></li>
+    <li><a href="#">Awards</a></li>
+    <li><a href="#">Artworks</a></li>
  </ul>
 
 
