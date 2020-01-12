@@ -2,17 +2,7 @@
 <!DOCTYPE html>
 
 <html>
-	#banner h1 a:hover{
 
-color: #fc3a63; /* 當滑鼠經過時，超連結文字顏色變成桃紅色 */
-
-position: relative; /* 當滑鼠經過超連結時，超連結往右下位移1像素 */
-
-top: 1px;
-
-left: 1px;
-
-}
 
  
 <head>
@@ -29,8 +19,7 @@ left: 1px;
   <hr/>
 
 <ul>
-    <li><a href="#">aboutme</a></li>
-    <li><a href="#">artwork</a></li>
+    <li><a href="https://www.facebook.com/alice.smile.90">FACEBOOK</a></li>
  </ul>
 
 
