@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<div style="text-align:center;">
+<font face="Serif">
+ 
+<head>
+	<title>ABOUT ME</title>
+</head>
+
+
+
+<body bgcolor="#F0F8FF">
+ /*標題*/
+ <h1><font color="#4682B4">About me</font></h1>
+
+<div style="width: 3000px; height:5px; background-color:	#708090;"></div>		
+<br>
+
+<div style="text-align: justify-all;">
+<a href="myhomepage.html"><font color=#5F9EA0><b>HOMEPAGE</b></font></a>
+<a href="aboutme.html"><font color=#5F9EA0><b>ABOUT ME</b></font></a>
+<a href="artworks.html"><font color=#5F9EA0><b>ARTWORKS</b></font></a>
+</div>
+<br>
+
+
+ <h2><font color=#5F9EA0>Interests</font></h2>
+ <h3>I'm a tech art learner, a digital art lover and a travel lover. I love drawing and traveling, so my dream is walking<br> around this stunning world on my foot and draw those amazing things by my hands.</h3>
+
+<h2><font color=#5F9EA0>Awards</font></h2>
+<ol><h4>
+<li>2015 Taiwan National Art EXhibition Print First class</li>
+<li>2016 Taiwan National Art EXhibition Print Excellent work</li>
+<li>2017 Taiwan National Art EXhibition Print Excellent work</li>
+<li>2016 Hisnchu City Anti tobacco, alcohol and betel nut Poster Competition First place</li>
+<li>2017 Hisnchu City Anti tobacco, alcohol and betel nut Poster Competition First place</li>
+</h4>
+</ol>
+
+
+</div>
+
+</body>
+
+</font>
+
+<div style="width: 2000px; height:2px; background-color:	#708090;"></div>
+<div style="width: 2000px; height:2px; background-color:;"></div>
+<div style="width: 2000px; height:5px; background-color:	#708090;"></div>	
+
+</html>
