@@ -29,4 +29,15 @@ I will major in tech art next summer. I love drawing, traveling.<br >
 </body>
 
 </html>
+@import url("reset.css");
 
+body{}
+
+#BOX{margin-left:500px;
+	margin-right: 50px;}
+
+#BOX h1{}
+
+#BOX h2{}
+
+#BOX p{}
