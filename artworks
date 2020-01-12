@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+
+<html>
+<div style="text-align:center;">
+<font face="Serif">
+ 
+<body bgcolor="#F0F8FF">
+<head>
+	<title>Artworks</title>
+</head>
+
+
+ <h1><font color="#4682B4">Artworks</font></h1>
+
+<div style="width: 3000px; height:5px; background-color:#708090;"></div><br>
+
+<div style="text-align: justify-all;">
+<a href="myhomepage.html"><font color=#5F9EA0><b>HOMEPAGE</b></font></a>
+<a href="aboutme.html"><font color=#5F9EA0><b>ABOUT ME</b></font></a>
+<a href="artworks.html"><font color=#5F9EA0><b>ARTWORKS</b></font></a>
+</div><br>
+
+ <h2><font color=#5F9EA0>Digital Arts</font></h32>
+ <h3>2019</h3>
+ <img width="200" src="https://images.plurk.com/z99lnHsr1qe2B2HDP2Wka.jpg">
+  <img width="200" src="https://images.plurk.com/2aaLiHAV3zthQsOFewdhIK.jpg">
+  <img width="200" src="https://images.plurk.com/1WzAvB7p20keJWb9yDFBIs.jpg">
+
+
+<h2><font color=#5F9EA0>Traditional Arts</font></h2>
+<h3>2018</h3>
+ <img width="200" src="https://images.plurk.com/5lJcQWGT1hB8vKWW69LQSa.jpg">
+  <img width="200" src="https://images.plurk.com/6MUeGvkgAlayzb04Ii4WEm.jpg">
+  <img width="200" src="https://images.plurk.com/34Z3MPa6muGg9k1hH2xMY1.jpg">
+  <img width="200" src="https://images.plurk.com/2saiNH4TbOkW66B5aYqju7.jpg">
+
+</div>
+
+</body>
+
+</font>
+
+<div style="width: 2000px; height:2px; background-color:#708090;"></div>
+<div style="width: 2000px; height:2px; background-color:;"></div>
+<div style="width: 2000px; height:5px; background-color:#708090;"></div>	
+
+
+</html>
