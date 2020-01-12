@@ -26,26 +26,7 @@ I will major in tech art next summer. I love drawing, traveling.<br >
     <li><a href="https://www.facebook.com/alice.smile.90">FACEBOOK</a></li>
 </ul>
 
-<div data-role="page" id="home">
-	<div data-role="healder">
-		<hi>頁首</hi>
-	</div>
-	<div data-role="content">內容</div>
-</div>
-
-<div data-role="page" id="page1">
-	<div data-role="healder">
-		<hi>夜手</hi>
-	</div>
-	<div data-role="content">內容</div>
-</div>
-
-<div data-role="page" id="page3">
-	<div data-role="healder">
-		<hi>夜手</hi>
-	</div>
-	<div data-role="content">內容</div>
-</div>
-
 </body>
+
 </html>
+
