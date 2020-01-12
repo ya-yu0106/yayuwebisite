@@ -12,7 +12,7 @@
 
 <div id="HEADER">
   <h1>YayuLiu</h1>
-<img src="https://imgur.com/oqTkhy4">
+<IMG SRC="https://imgur.com/bgYAhwU">>
 </div>
 
 
