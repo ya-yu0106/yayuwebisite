@@ -11,7 +11,7 @@
 
   <h1>YayuLiu</h1>
   <h2>my picture</h2>
-  <img src="p362.jpg"></img>
+  <img src="p362.jpg">
   <hr/>
 
 <ul>
