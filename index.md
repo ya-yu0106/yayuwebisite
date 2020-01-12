@@ -30,7 +30,20 @@ I will major in tech art next summer. I love drawing, traveling.<br >
 	</div>
 	<div data-role="content">內容</div>
 </div>
+
+<div data-role="page" id="page1">
+	<div data-role="healder">
+		<hi>夜手</hi>
+	</div>
+	<div data-role="content">內容</div>
+</div>
+
+<div data-role="page" id="page3">
+	<div data-role="healder">
+		<hi>夜手</hi>
+	</div>
+	<div data-role="content">內容</div>
+</div>
+
 </body>
 </html>
-
-
