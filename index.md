@@ -6,7 +6,7 @@
 
  
 <head>
-  <tytle>YayuLiu</tytle>
+  <title>YayuLiu</title>
  
 </head>
 
