@@ -6,6 +6,10 @@
 
  
 <head>
+	<title>劉雅瑜108000105</title>
+	<link herf="css.css" rel="stylesheet" type="text/css"/>
+	<div style="width: 100px; height:50px; background-color: black;"></div>
+	
 	<h1>YayuLiu</h1>
  
 </head>
@@ -29,15 +33,4 @@ I will major in tech art next summer. I love drawing, traveling.<br >
 </body>
 
 </html>
-@import url("reset.css");
 
-body{}
-
-#BOX{margin-left:500px;
-	margin-right: 50px;}
-
-#BOX h1{}
-
-#BOX h2{}
-
-#BOX p{}
