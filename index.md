@@ -1,16 +1,27 @@
+
 <!DOCTYPE html>
 
 <html>
+	#banner h1 a:hover{
+
+color: #fc3a63; /* 當滑鼠經過時，超連結文字顏色變成桃紅色 */
+
+position: relative; /* 當滑鼠經過超連結時，超連結往右下位移1像素 */
+
+top: 1px;
+
+left: 1px;
+
+}
+
+ 
 <head>
   <tytle></tytle>
  
 </head>
 
 <body>
-	<div style="color:green;border:2px #cccccc solid;padding:5px;">
-文字顏色全部都是綠色的
-</div>
-	<span style="color:red;">這段文字是紅色的</span>
+	
   <h1>YayuLiu</h1>
   <img width="200" src="https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/69638577_1724845367659912_311887549939318784_o.jpg?_nc_cat=110&_nc_ohc=0Sc2LHwEinoAQlmt6DHpfsBWYYyPZvx7JEBVCvFHQ-edmq-hd75QHtESA&_nc_ht=scontent.ftpe8-4.fna&oh=57fc306e61bcda6af879568f6f5cbc51&oe=5E9F8384">
   <h2>my picture</h2>
